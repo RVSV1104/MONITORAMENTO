@@ -275,5 +275,3 @@ def gerar_relatorio_por_consultor(data_db):
 
 # Gerar o relatório detalhado por consultor
 gerar_relatorio_por_consultor(data_db)
-
-pip install streamlit
